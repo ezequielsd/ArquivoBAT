@@ -53,4 +53,5 @@ Para conhecer mais sobre arquivos .bat e comandos, acesse:
 
 [Introdução a arquivos .BAT e programação em lotes](https://www.devmedia.com.br/introducao-a-arquivos-bat-e-programacao-em-lotes/24800)  
 [Bat Conceitos básicos](https://purainfo.com.br/bat-conceitos-bsicos/)
+
 [Manipulação de string no DOS](https://www.dostips.com/DtTipsStringManipulation.php)  
